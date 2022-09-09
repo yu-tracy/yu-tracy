@@ -1,6 +1,5 @@
-- 👋 Hi, I’m yu, a MSc student at University of Copenhagen.
+- 👋 Hi, I’m yu, a MSc student at University of Copenhagen, studying Computer Science.
 - 👀 I’m interested in Data Science.
-- 🌱 I'm currently learning Computer Science.
 
 <!---
 yu-tracy/yu-tracy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
