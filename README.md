@@ -1,5 +1,5 @@
-- 👋 Hi, I’m yu, a MSc student at University of Copenhagen, studying Computer Science.
-- 👀 I’m interested in Data Science.
+- 👋 Hi, I’m Yu, a Data Engineer at ECCO Sneaks & Data A/S
+- 🏫 I graduated from the University of Copehagen (MSc in Computer Science)
 
 <!---
 yu-tracy/yu-tracy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
