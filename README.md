@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yu, a Data Engineer at ECCO Sneaks & Data A/S
+- 👋 Hi, I’m Yu, a Data Engineer at ECCO Sko A/S
 - 🏫 I graduated from the University of Copehagen (MSc in Computer Science)
 
 <!---
